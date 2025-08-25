@@ -1,17 +1,11 @@
 # Scrape-ALICE-budget-data
 
-Scraping ALICE Budget Data 
 
-Team Members: Hari Shivani Gudi, Mounya Inampudi 
-
-Project Manager: Daniel Cheruiyot 
-
- 
 
 Introduction: 
-A blue and red logo
 
-Description automatically generated 
+
+
  
 ALICE - Asset Limited, Income Constrained, Employed. 
 
