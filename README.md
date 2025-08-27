@@ -24,11 +24,6 @@ Automate the retrieval of ALICE Household Survival Budget data for all counties 
 ## Data Source
 - [United for ALICE – Survival Budget Calculator](https://www.unitedforalice.org/household-budgets/indiana)
 
-## Work Flow
-
-A diagram of a number of data
-
-Description automatically generated with medium confidence
 
 ## Visualizations
 - https://observablehq.com/embed/ffe7af3a5705d362@541?cells=piecharts
